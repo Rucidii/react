@@ -11,5 +11,6 @@ Proses Pembuatan Fitur :
 
 Menambahkan komponen view ke dalam data base
 Lalu komponen view ditampilkan pada home page
-Link Github :   https://github.com/Rucidii/react.git
+Link Github :   https://github.com/Rucidii/react/tree/master
+
 
