@@ -1,10 +1,14 @@
-# React Blog
+Kelompok 1:
 
-React Blog is a single page application built with React as part of my book [Understanding React](https://leanpub.com/understandingreact). Too see it running, it requires to start the fake API application project [blog-api](https://github.com/enriquemolinari/blog-api).
+Rucidi Kelikualiq
+Septi Hidayah
+Elsa Febrianti
+Fitur yang ditambahkan : Viewer
 
-The book is completely **free** for my students (if you want to read it, just write to me).
+Fungsi : Fitur Viewer digunakan untuk mengetahui jumlah orang yang membaca artikel pada sebuah blog
 
-# Install and Start
+Proses Pembuatan Fitur :
 
-- npm install
-- npm start
+Menambahkan komponen view ke dalam data base
+Lalu komponen view ditampilkan pada home page
+Link Github :
